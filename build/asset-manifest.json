@@ -1,0 +1,41 @@
+{
+  "files": {
+    "main.css": "/static/css/main.24537f9c.css",
+    "main.js": "/static/js/main.f543109f.js",
+    "static/js/787.2ce9199a.chunk.js": "/static/js/787.2ce9199a.chunk.js",
+    "static/media/mango.gif": "/static/media/mango.3e721339047fd422134f.gif",
+    "static/media/happy.png": "/static/media/happy.e5f131ea22414860ef9e.png",
+    "static/media/none.png": "/static/media/none.cb2eef75780d9ade0a8b.png",
+    "static/media/download.jpeg": "/static/media/download.d5c34a19fc8cfdc3636e.jpeg",
+    "static/media/java script_page-0001.jpg": "/static/media/java script_page-0001.a23a3405ccd208f8f858.jpg",
+    "static/media/Digital Marketing.gif": "/static/media/Digital Marketing.aea56d3c7ba88a0c9ef3.gif",
+    "static/media/math.jpg": "/static/media/math.a09a49b99ee9c6814c4a.jpg",
+    "static/media/banana.gif": "/static/media/banana.32f83f068742eaaed49d.gif",
+    "static/media/css.jpg": "/static/media/css.9f43430b6d046cb7c7a3.jpg",
+    "static/media/introduction.jpg": "/static/media/introduction.a15d2d7a672a486337f6.jpg",
+    "static/media/Tech.jpg": "/static/media/Tech.4ee70af241ca9eb079ec.jpg",
+    "static/media/mern.jpg": "/static/media/mern.7133b25cf781bc85187f.jpg",
+    "static/media/html and css depth.jpg": "/static/media/html and css depth.97e60c4aa4f5b54fcd78.jpg",
+    "static/media/engineering.png": "/static/media/engineering.d59b14cd4c973b988eb1.png",
+    "static/media/profile.png": "/static/media/profile.ef1f8bba074db7e0ff98.png",
+    "static/media/sad.png": "/static/media/sad.44a6fbe5108de4975d29.png",
+    "static/media/lion.jpg": "/static/media/lion.c82d97a5e908edeb3ed1.jpg",
+    "static/media/blue.jpeg": "/static/media/blue.d1c3df49e03262c0c4d9.jpeg",
+    "static/media/rcblogo.jpeg": "/static/media/rcblogo.e876ee1f3c36cd401f55.jpeg",
+    "static/media/data-scientist.jpg": "/static/media/data-scientist.94d4e5010426cab49e90.jpg",
+    "static/media/heart.gif": "/static/media/heart.3541060a3cf417d9e7f1.gif",
+    "static/media/user.image.png": "/static/media/user.image.a952913a7a42e036aa49.png",
+    "static/media/developer.png": "/static/media/developer.22e293fb267a07748174.png",
+    "static/media/vr.jpg": "/static/media/vr.04c687b06018e15d7011.jpg",
+    "static/media/Listening skills black glyph icon.jpeg": "/static/media/Listening skills black glyph icon.3ff25d43b6732c5612ac.jpeg",
+    "static/media/profile-img.png": "/static/media/profile-img.902a66219c647b49cd2c.png",
+    "index.html": "/index.html",
+    "main.24537f9c.css.map": "/static/css/main.24537f9c.css.map",
+    "main.f543109f.js.map": "/static/js/main.f543109f.js.map",
+    "787.2ce9199a.chunk.js.map": "/static/js/787.2ce9199a.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.24537f9c.css",
+    "static/js/main.f543109f.js"
+  ]
+}

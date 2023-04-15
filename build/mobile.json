@@ -1,0 +1,144 @@
+[
+    {
+        "img_name":"https://kddi-h.assetsadobe3.com/is/image/content/dam/au-com/mobile/mb_img_58.jpg?scl=1",
+        "brand":"Apple",
+        "price":"74,499",
+        "description":"Designed to make a difference.",
+        "button":"Add Card"
+    },
+    {
+        "img_name":"https://cdn1.smartprix.com/rx-iGNlyOFEo-w1200-h1200/GNlyOFEo.jpg",
+        "brand":"Oneplus",
+        "price":"49,999",
+        "description":"Designed to make a difference.",
+        "button":"Add Card"
+    },
+    {
+        "img_name":"https://in-exstatic-vivofs.vivo.com/gdHFRinHEMrj3yPG/1677136560047/bc15fdf9b8f4abecbe78c2e86eb27df9.png",
+        "brand":"Vivo",
+        "price":"27,999",
+        "description":"Designed to make a difference.",
+        "button":"Add Card"
+    },
+    {
+        "img_name":"https://m.media-amazon.com/images/W/IMAGERENDERING_521856-T1/images/I/71geVdy6-OS._SL1500_.jpg",
+        "brand":"Oppo",
+        "price":"31,000",
+        "description":"Designed to make a difference.",
+        "button":"Add Card"
+    },
+    {
+        "img_name":"https://i.gadgets360cdn.com/products/large/moto-db-709x800-1652441656.jpg",
+        "brand":"Moto",
+        "price":"19,990",
+        "description":"Designed to make a difference.",
+        "button":"Add Card"
+    },
+    {
+        "img_name":"https://cdn1.smartprix.com/rx-iEfM9LzwK-w1200-h1200/EfM9LzwK.jpg",
+        "brand":"Realme",
+        "price":"12,499",
+        "description":"Designed to make a difference.",
+        "button":"Add Card"
+    },
+    {
+        "img_name":"https://images.ctfassets.net/wcfotm6rrl7u/vvSc7YrV8mtIezVCmEQTa/666a8a3818c7cd631a779bfd0b89aadb/nokia-5_4-dusk-front_back-int.png?h=1000&fm=png&fl=png8",
+        "brand":"Nokia",
+        "price":"16,200",
+        "description":"Designed to make a difference.",
+        "button":"Add Card"
+    },
+    {
+        "img_name":"https://images.ctfassets.net/wcfotm6rrl7u/54b8qK9HLwHnwTWy1qBUZS/10fdb7640862908bfcf8b1cc5b85dcfa/nokia_C21_plus-dark_cyan-front_back-IN.png",
+        "brand":"Nokia",
+        "price":"21,999",
+        "description":"Designed to make a difference.",
+        "button":"Add Card"
+    },
+    {
+        "img_name":"https://image01.realme.net/general/20230206/1675655586420.png?width=1080&height=1080&size=1448515",
+        "brand":"Realme coke-edition",
+        "price":"20,499",
+        "description":"Designed to make a difference.",
+        "button":"Add Card"
+    },
+    {
+        "img_name":"https://i.gadgets360cdn.com/products/large/redmi-note-11-pro-plus-5g-665x800-1646810144.jpg",
+        "brand":"Redmi",
+        "price":"11,899",
+        "description":"Designed to make a difference.",
+        "button":"Add Card"
+    },
+    {
+        "img_name":"https://static.toiimg.com/thumb/resizemode-4,msid-68374701,width-250,imgv-7/68374701.jpg",
+        "brand":"Vivo",
+        "price":"14,500",
+        "description":"Designed to make a difference.",
+        "button":"Add Card"
+    },
+    {
+        "img_name":"https://opsg-img-cdn-gl.heytapimg.com/epb/202205/26/siwzk8lPjtX8oR4P.png",
+        "brand":"Oppo",
+        "price":"27,000",
+        "description":"Designed to make a difference.",
+        "button":"Add Card"
+    },
+    {
+        "img_name":"https://i.gadgets360cdn.com/products/large/moto-db-709x800-1652441656.jpg",
+        "brand":"Moto",
+        "price":"15,299",
+        "description":"Designed to make a difference.",
+        "button":"Add Card"
+    },
+    {
+        "img_name":"https://assets.tatacliq.com/medias/sys_master/images/33131150409758.jpg",
+        "brand":"Apple",
+        "price":"1,20,000",
+        "description":"Designed to make a difference.",
+        "button":"Add Card"
+    },
+    {
+        "img_name":"https://m.media-amazon.com/images/W/IMAGERENDERING_521856-T1/images/I/714Kvqx5WHL._AC_SS450_.jpg",
+        "brand":"Oppo",
+        "price":"32,000",
+        "description":"Designed to make a difference.",
+        "button":"Add Card"
+    },
+    {
+        "img_name":"https://m.media-amazon.com/images/W/IMAGERENDERING_521856-T1/images/I/71bcl7VlwVL._SL1500_.jpg",
+        "brand":"xiafun",
+        "price":"25,000",
+        "description":"Designed to make a difference.",
+        "button":"Add Card"
+    },
+    {
+        "img_name":"https://rukminim1.flixcart.com/image/312/312/xif0q/mobile/f/y/1/-original-imaggvxcnyfnfude.jpeg?q=70",
+        "brand":"Infinix",
+        "price":"12,500",
+        "description":"Designed to make a difference.",
+        "button":"Add Card"
+    },
+    {
+        "img_name":"https://images-cdn.ubuy.co.in/634ebeff6be5171ed94ddc90-full-touch-screen-cell-phone-6-1-inch.jpg",
+        "brand":"Samsung",
+        "price":"28,000",
+        "description":"Designed to make a difference.",
+        "button":"Add Card"
+    },
+    {
+        "img_name":"https://images-cdn.ubuy.co.in/633fd4ed3af4fa3b496dbe6b-firzero-2022-new-unlocked-smartphone.jpg",
+        "brand":"Sony",
+        "price":"41,000",
+        "description":"Designed to make a difference.",
+        "button":"Add Card"
+    },
+    {
+        "img_name":"https://tiimg.tistatic.com/fp/1/008/004/6-52-inch-hd-display-6-gb-ram-2b-android-mobile-phone--139.jpg",
+        "brand":"Micromax",
+        "price":"20,000",
+        "description":"Designed to make a difference.",
+        "button":"Add Card"
+    }
+    
+
+]
