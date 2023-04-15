@@ -1,0 +1,31 @@
+.background{
+    background-image: linear-gradient(to right,blue,rgb(78, 94, 128),rgb(221, 78, 185));
+    min-height: 100vh;
+}
+.login{
+    border-radius: 10px;
+    outline: none;
+    padding-left: 5px;
+    width: 250px;
+    height: 40px;
+    border: none;
+    background-color: rgb(209, 205, 205);
+}
+.password{
+    border-radius: 10px;
+    outline: none;
+    padding-left: 5px;
+    width: 250px;
+    height: 40px;
+    border:none;
+    background-color: rgb(209, 205, 205);
+}
+.button1{
+    outline: none;
+    border-radius: 10px;
+    width: 250px;
+    height: 40px;
+    border:none;
+    color: white;
+    background-color: green;
+}

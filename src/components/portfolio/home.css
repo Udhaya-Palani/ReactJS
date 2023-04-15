@@ -1,0 +1,17 @@
+.bg-home{
+    background-image: url("./download.jpeg");
+    background-size: cover;
+    background-repeat: no-repeat;
+    min-height: 99vh;
+}
+.font{
+    font-family:'Courier New', Courier, monospace;
+    padding-top: 100px!important;
+}
+.circle{
+    border-radius: 300px;
+}
+.cent{
+    display: grid;
+    place-items: center;
+}

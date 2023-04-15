@@ -1,0 +1,17 @@
+.bon{
+    padding: 5px;
+    border-radius: 30px;
+    border: none;
+    outline: none;
+    width: 100px;
+}
+.pic{
+    background-image:url("./math.jpg");
+    background-size: cover;
+    background-repeat: no-repeat;
+    min-height:99vh;
+}
+.bor{
+    border-radius: 30px;
+    background-image: linear-gradient(rgb(41, 101, 181),rgb(186, 216, 18));
+}

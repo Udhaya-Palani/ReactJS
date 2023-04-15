@@ -1,0 +1,14 @@
+.container{
+    max-width:1080px;
+    margin:0 auto;
+    }
+    figure figcaption{
+    letter-spacing:0.5px;
+    text-align:center;
+    margin:10px;
+    }
+    .p_font_style{
+    line-height:30px;
+    font-weight:200px;
+    text-indent:10px;
+    }

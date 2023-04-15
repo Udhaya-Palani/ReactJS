@@ -1,0 +1,22 @@
+.bg-about{
+    background-image: url("./blue.jpeg");
+}
+.bold{
+    font-weight:1000;
+}
+.design1{
+    font-family:'Times New Roman', Times, serif;
+    color:crimson
+}
+.design2{
+    background-color:black ;
+    color:coral;
+    text-align:center;
+}
+.black{
+    background-color: black;
+}
+.btn:hover{
+    background-color:rgb(202, 102, 224);
+    border-radius: 5px;
+}

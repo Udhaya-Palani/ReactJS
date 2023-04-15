@@ -1,0 +1,16 @@
+
+.orange{
+    background-color: orange;
+    border-radius: 5px;
+    border: none;
+    outline: none;
+}
+.blue{
+    background-color:rgba(25, 94, 192, 0.817);
+    border-radius: 5px;
+    border: none;
+    outline: none;
+}
+.size{
+    height: 270px;
+}

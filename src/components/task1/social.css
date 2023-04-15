@@ -1,0 +1,14 @@
+.bg{
+    background-image: url("https://img.freepik.com/premium-photo/night-starry-sky-bright-purple-blue-galaxy-horizontal-background-3d-illustration-milky-way-universe_118047-11036.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 100vh;
+}
+.log-button{
+    border-radius:10px;
+    width:100px;
+    height: 50px;
+}
+.center-button{
+    border-radius: 10px;
+}

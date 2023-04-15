@@ -1,0 +1,77 @@
+
+body{
+    background: radial-gradient(circle, rgb(231, 108, 161) 0%, rgb(86, 159, 243) 100%);
+    display: row;
+}
+
+.card{
+    margin-top: 50px!important;
+    width:400px;
+    margin: auto;
+    height: 400px;
+    margin: 1px;
+    position: relative;
+    transition: transform 4s ease-in;
+    overflow: hidden;
+    border:4px solid #fff;
+
+}
+.animate{
+    width:100%;
+    height: 400px;
+    transition: transform 1s ease-in;
+}
+.animate:hover{
+    transform: scale(0.8);
+}
+.card:before {
+    width: 100%;
+    height: 100%;
+    position: absolute;
+    top: 0;
+    left:0;
+    transform:translateY(-100%);
+    font-size: 25px;
+    color:#fff;
+   display: block;
+    background-color: rgba(188, 143, 143, 0.137);
+    z-index: 1;
+    display:flex;
+    justify-content: center;
+    align-items: center;
+   font-family: sans-serif;
+    transition: transform .4s ease-in;
+    border:4px solid white;
+    justify-content: center;
+    box-sizing: border-box;
+}
+
+.card:after {
+    width: 100%;
+    height: 100%;
+    position: absolute;
+    top: 0;
+    left:0;
+    transform:translateY(100%);
+    font-size: 25px;
+    color:#fff;
+   display: block;
+    background-color: rgba(188, 143, 143, 0.137);
+    z-index: 1;
+    display:flex;
+    justify-content: center;
+    align-items: center;
+   font-family: sans-serif;
+    transition: transform .4s ease-in;
+    border:4px solid white;
+    justify-content: center;
+    box-sizing: border-box;
+}
+ .card:hover::before{
+ transform: translateY(0%); 
+ 
+}
+.card:hover::after{
+    transform: translateY(0%); 
+    
+   }

@@ -1,0 +1,38 @@
+  .port ul li {
+    list-style: none;
+  }
+  .port ul li {
+    position: relative;
+    display: block;
+    text-decoration: none;
+    text-transform: uppercase;
+    font-weight: bold;
+    transition: .5s;
+  }
+  .port ul li:hover {
+    color: #fff;
+  }
+  .port ul li:hover:before {
+    transform: scaleY(1.2);
+    opacity: 1;
+  }
+  .port ul li:after {
+    content: '';
+    position: absolute;
+    top: 1px;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    background: rgb(255, 111, 133);
+    transform: scale(0);
+    transition: .5s;
+    z-index: -1;
+    border-radius:10px ;
+  }
+  .port ul li:hover:after {
+    transform: scale(1);
+  }
+  .port ul li{
+    color: white;
+    margin-left: 0;
+  }
